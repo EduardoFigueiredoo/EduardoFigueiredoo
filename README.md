@@ -1,12 +1,13 @@
-### Hi there 👋
+### Olá, meu nome é Eduardo Figueiredo.
 
+
+<!--**EduardoFigueiredoo/EduardoFigueiredoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
+<a>
+- 🔭 Atualmente, procurando minha primeira oportunidade na área da programação. <br>
+- 🌱 Cursando ciência da computação e estudando desenvolvimento web, utilizando HTML, CSS e JAVASCRIPT. 
 <!--
-**EduardoFigueiredoo/EduardoFigueiredoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
