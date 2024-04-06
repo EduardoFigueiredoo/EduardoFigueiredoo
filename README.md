@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 <a>
 - 🔭 Atualmente, procurando minha primeira oportunidade na área da programação. <br>
-- 🌱 Cursando ciência da computação e estudando desenvolvimento web, utilizando HTML, CSS e JAVASCRIPT. 
+- 🌱 Cursando Ciência da Computação e estudando desenvolvimento web, utilizando HTML, CSS e JAVASCRIPT. 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
